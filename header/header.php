@@ -5,53 +5,53 @@
           <div class="container">
             <nav id="menuzord-right" class="menuzord default theme-colored">
               <a class="menuzord-brand pull-left flip mt-20 mt-sm-10 mb-sm-20 pt-5" href="index-mp-layout1.html">
-                <img src="../images/logo.png" alt="" style = "max-height: 58px;">
+                <img src="/images/logo.png" alt="" style = "max-height: 58px;">
                 <span style = "font-family: 'Montserrat', sans-serif;color:#3fa2b2;font-size:12px">Krishna Pradeep's IAS</span>
               </a>
               <ul class="menuzord-menu">
                 <li class="active">
-                  <a href="#home">Home</a>
+                  <a href="/home">Home</a>
                 </li>
                 <li>
-                  <a href="#">Courses</a>
+                  <a href="/courses">Courses</a>
                   <ul class="dropdown">
                   <li>
-                      <a href="#">Civils</a>
+                      <a href="/courses/civils">Civils</a>
                       <ul class="dropdown">
                       <li>
-                          <a href="../courses/inter-with-ias.php">Inter with IAS</a>
+                          <a href="/courses/civils/inter-with-ias">Inter with IAS</a>
                         </li>
                         <li>
-                          <a href="events-table.html">Degree with IAS</a>
+                          <a href="/courses/civils/degree-with-ias">Degree with IAS</a>
                         </li>
                         <li>
-                          <a href="#">Direct IAS</a>
+                          <a href="/courses/civils/direct-ias">Direct IAS</a>
                           <ul class="dropdown">
                             <li>
-                              <a href="events-grid-2column.html">Prelims</a>
+                              <a href="/courses/civils/direct-ias/prelims">Prelims</a>
                             </li>
                             <li>
-                              <a href="events-grid-3column.html">Mains</a>
+                              <a href="/courses/civils/direct-ias/mains">Mains</a>
                             </li>
                             <li>
-                              <a href="events-grid-4column.html">PCM Batches</a>
+                              <a href="/courses/civils/direct-ias/pcm">PCM Batches</a>
                             </li>
                           </ul>
                         </li>
                         <li>
-                          <a href="#">Repeaters Intensive Batch</a>
+                          <a href="/courses/civils/repeaters-intensive-batch">Repeaters Intensive Batch</a>
                           <ul class="dropdown">
                             <li>
-                              <a href="events-grid-2column.html">Prelims</a>
+                              <a href="/courses/civils/repeaters-intensive-batch/prelims">Prelims</a>
                             </li>
                             <li>
-                              <a href="events-grid-3column.html">Mains</a>
+                              <a href="/courses/civils/repeaters-intensive-batch/mains">Mains</a>
                             </li>
                             <li>
-                              <a href="events-grid-4column.html">PCM Batches</a>
+                              <a href="/courses/civils/repeaters-intensive-batch/pcm">PCM Batches</a>
                             </li>
                             <li>
-                              <a href="events-grid-left-sidebar.html">Test Series</a>
+                              <a href="/courses/civils/repeaters-intensive-batch/test-series">Test Series</a>
                             </li>
                           </ul>
                         </li>
@@ -59,34 +59,51 @@
                       
                     </li>
                   <li>
-                      <a href="#">Groups</a>
+                      <a href="/courses/groups">Groups</a>
                       <ul class="dropdown">
-                        <li>
-                          <a href="page-about1.html">Group 1</a>
+                      <li>
+                          <a href="/courses/groups/group-1">Group 1</a>
+                          <ul class="dropdown">
+                            <li>
+                              <a href="/courses/groups/group-1/ap">Andhra Pradesh</a>
+                            </li>
+                            <li>
+                              <a href="/courses/groups/group-1/ts">Telangana</a>
+                            </li>
+                          </ul>
                         </li>
                         <li>
-                          <a href="page-about2.html">Group 2</a>
+                          <a href="/courses/groups/group-2">Group 2</a>
+                          <ul class="dropdown">
+                            <li>
+                              <a href="/courses/groups/group-2/ap">Andhra Pradesh</a>
+                            </li>
+                            <li>
+                              <a href="/courses/groups/group-2/ts">Telangana</a>
+                            </li>
+                          </ul>
                         </li>
+
                       </ul>
                     </li>
                   </ul>
                 </li>
                 
                 <li>
-                  <a href="#home">About</a>
+                  <a href="/about">About</a>
                 </li>
                 <li>
-                  <a href="#home">Achievements</a>
+                  <a href="/achievements">Achievements</a>
                 </li>
                
                 <li>
-                  <a href="#home">FAQ</a>
+                  <a href="/gallery">Gallery</a>
                 </li>
                 <li>
-                  <a href="#home">Student Zone <span class="label label-danger">Featured</span></a>
+                  <a href="#">Student Zone <span class="label label-danger">Featured</span></a>
                 </li>
                 <li>
-                  <a href="#home">Contact</a>
+                  <a href="/contact">Contact</a>
                 </li>
               </ul>
             </nav>

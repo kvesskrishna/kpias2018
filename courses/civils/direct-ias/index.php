@@ -78,6 +78,50 @@
     <div class="main-content">
 
 <!--ACTUAL PAGE CONTENT GOES HERE-->
+<section class="inner-header divider layer-overlay overlay-theme-colored-7" data-bg-img="../images/bg/bg1.jpg">
+                <div class="container pt-120 pb-60">
+                    <!-- Section Content -->
+                    <div class="section-content">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h2 class="text-theme-colored2 font-36">Direct IAS</h2>
+                                <ol class="breadcrumb text-left mt-10 white">
+                                <li>
+                                        <a href="#">Home</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Courses</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">Civils</a>
+                                    </li>
+                                    <li class="active">Direct IAS</li>
+                                </ol>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <section>
+            <div class="container">
+                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
+                                            non cupidatat skateboard dolor brunch.
+                                            <ul class="list-icon theme-colored rounded">
+                                                <li>
+                                                    <i class="fa fa-pencil-square-o"></i>
+                                                    <a href="">Prelims</a>
+                                                </li>
+                                                <li>
+                                                    <i class="fa fa-pencil-square-o"></i>
+                                                    <a href="">Mains</a>
+                                                </li>
+                                                <li>
+                                                    <i class="fa fa-pencil-square-o"></i>
+                                                    <a href="">PCM</a>
+                                                </li>
+                                            </ul>
+                                            </div>
+            </section>
 
     </div>
     <!-- end main-content -->

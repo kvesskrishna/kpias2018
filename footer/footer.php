@@ -1,6 +1,6 @@
 <footer id="footer" class="footer" data-bg-color="#20232E">
       <div class="container pt-60 pb-20">
-        <div class="col-sm-6 col-md-3">
+        <div class="col-sm-6 col-md-4">
           <div class="widget dark">
             <img alt="" src="images/logo-footer.png">
             <p class="mt-20">Opp : Sub Registrar Office, Ashok Nagar, Hyderabad-500020.</p>
@@ -37,26 +37,17 @@
             </ul>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3">
+        <div class="col-sm-6 col-md-5">
           <div class="widget dark">
             <h4 class="widget-title line-bottom-theme-colored2">Useful Links</h4>
             <div class="row clearfix">
               <div class="col-xs-12 col-sm-6 col-md-6">
                 <ul class="footer-link">
-                  <li>
-                    <a href="#">Home</a>
+                <li>
+                    <a href="#">Current Affairs</a>
                   </li>
                   <li>
-                    <a href="#">About Us</a>
-                  </li>
-                  <li>
-                    <a href="#">Courses</a>
-                  </li>
-                  <li>
-                    <a href="#">Achievements</a>
-                  </li>
-                  <li>
-                    <a href="#">Contact</a>
+                    <a href="#">Daily Quiz</a>
                   </li>
                   <li>
                     <a href="#">FAQ</a>
@@ -65,12 +56,6 @@
               </div>
               <div class="col-xs-12 col-sm-6 col-md-6">
                 <ul class="footer-link">
-                  <li>
-                    <a href="#">Current Affairs</a>
-                  </li>
-                  <li>
-                    <a href="#">Daily Quiz</a>
-                  </li>
                   <li>
                     <a href="#">Yojna</a>
                   </li>
@@ -85,46 +70,7 @@
             </div>
           </div>
         </div>
-        <div class="col-sm-6 col-md-3">
-          <div class="widget dark">
-            <h4 class="widget-title line-bottom-theme-colored2">Latest News</h4>
-            <div class="latest-posts">
-              <article class="post media-post clearfix pb-0 mb-10">
-                <a class="post-thumb" href="#">
-                  <img src="images/blog/ln1.jpg" alt="">
-                </a>
-                <div class="post-right">
-                  <h5 class="post-title mt-0 mb-5">
-                    <a href="#">Regular PCM Commencement</a>
-                  </h5>
-                  <p class="post-date mb-0 font-12">June 08, 2018</p>
-                </div>
-              </article>
-              <article class="post media-post clearfix pb-0 mb-10">
-                <a class="post-thumb" href="#">
-                  <img src="images/blog/ln2.jpg" alt="">
-                </a>
-                <div class="post-right">
-                  <h5 class="post-title mt-0 mb-5">
-                    <a href="#">Seminar on How to Crack IAS</a>
-                  </h5>
-                  <p class="post-date mb-0 font-12">July 08, 2018</p>
-                </div>
-              </article>
-              <article class="post media-post clearfix pb-0 mb-10">
-                <a class="post-thumb" href="#">
-                  <img src="images/blog/ln3.jpg" alt="">
-                </a>
-                <div class="post-right">
-                  <h5 class="post-title mt-0 mb-5">
-                    <a href="#">Seminar on Personality Traits</a>
-                  </h5>
-                  <p class="post-date mb-0 font-12">July 28, 2018</p>
-                </div>
-              </article>
-            </div>
-          </div>
-        </div>
+     
         <div class="col-sm-6 col-md-3">
           <div class="widget dark">
             <h4 class="widget-title line-bottom-theme-colored2">Opening Hours</h4>
