@@ -116,8 +116,7 @@
                                     </div>
                                     <div id="collapseOne3" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne3">
                                         <div class="panel-body">
-                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
-                                            non cupidatat skateboard dolor brunch.
+                                            Normally aspirants start for Civil Services exam preparation after their post graduation at around 22-23 years of age. It takes about 1-2 years to get proper understanding of the subject and examination pattern. By the time they succeed in the Civils examination usually they will be around 26-28 years.
                                             <div class="text-center">
                                                 <a href="" class="btn btn-info btn-sm">
                                                     Read More
