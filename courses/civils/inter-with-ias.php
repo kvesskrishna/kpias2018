@@ -110,8 +110,7 @@
                   <div class="tab-content">
                     <div class="tab-pane fade in active" id="tab1">
                       <h3>Course Description</h3>
-                      <p>One Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, iste, architecto ullam tenetur quia nemo ratione tempora consectetur quos minus voluptates nisi hic alias libero explicabo reiciendis sint ut quo nulla ipsa aliquid neque molestias et qui sunt. Odit, molestiae. One Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, iste, architecto ullam tenetur quia nemo ratione tempora consectetur quos minus voluptates nisi hic alias libero explicabo reiciendis sint ut quo nulla ipsa aliquid neque molestias et qui sunt. Odit, molestiae.</p>
-                      <p>One Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, iste, architecto ullam tenetur quia nemo ratione tempora consectetur quos minus voluptates nisi hic alias libero explicabo reiciendis sint ut quo nulla ipsa aliquid neque molestias et qui sunt. Odit, molestiae.</p>
+                      <p>To achieve this objective, for the first time in the country Krishna Pradeep’s 21st Century IAS Academy was established to groom young minds by providing integrated Civils coaching along with intermediate & degree education. The Academy also offers one year intensive Civil services coaching for graduates and postgraduates</p>
                     </div>
                     <div class="tab-pane fade" id="tab2">
                       <table class="table table-striped">
