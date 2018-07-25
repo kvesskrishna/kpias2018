@@ -162,7 +162,7 @@
                                     <div class="panel-heading" role="tab" id="headingOne2">
                                         <h4 class="panel-title">
                                             <a role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne2" aria-expanded="true" aria-controls="collapseOne2">
-                                                Collapsible Group Item #1
+                                               Andhra Pradesh
                                             </a>
                                         </h4>
                                     </div>
@@ -174,12 +174,12 @@
                                     </div>
                                 </div>
                                 
-                                <!--<div class="panel panel-default">
+                                <div class="panel panel-default">
                                     <div class="panel-heading" role="tab" id="headingThree2">
                                         <h4 class="panel-title">
                                             <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree2" aria-expanded="false"
                                                 aria-controls="collapseThree2">
-                                                Collapsible Group Item #3
+                                                Telangana
                                             </a>
                                         </h4>
                                     </div>
@@ -190,7 +190,7 @@
                                         </div>
                                     </div>
                                 </div>
-                            </div>-->
+                            </div>
                         </div>
                     </div>
             </section>
