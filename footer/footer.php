@@ -2,7 +2,8 @@
       <div class="container pt-60 pb-20">
         <div class="col-sm-6 col-md-4">
           <div class="widget dark">
-            <img alt="" src="images/logo-footer.png">
+            <h4 class="widget-title line-bottom-theme-colored2">HQ Address:</h4>
+            <!--<img alt="" src="images/logo-footer.png">-->
             <p class="mt-20">Opp : Sub Registrar Office, Ashok Nagar, Hyderabad-500020.</p>
             <ul class="list-inline">
               <li class="m-0 pl-10 pr-10">
