@@ -82,12 +82,12 @@
         <div class="section-content">
           <div class="row"> 
             <div class="col-md-6">
-              <h2 class="text-theme-colored2 font-36">Prelims</h2>
+              <h2 class="text-theme-colored2 font-36">Mains</h2>
               <ol class="breadcrumb text-left mt-10 white">
                 <li><a href="#">Home</a></li>
                 <li><a href="#">Courses</a></li>
                 <li><a href="#">Civils</a></li>
-                <li class="active">Prelims</li>
+                <li class="active">Mains</li>
               </ol>
             </div>
           </div>
@@ -110,7 +110,7 @@
                   <div class="tab-content">
                     <div class="tab-pane fade in active" id="tab1">
                       <h3>Course Description</h3>
-                      <p>To achieve this objective, for the first time in the country Krishna Pradeep’s 21st Century IAS Academy was established to groom young minds by providing integrated Civils coaching along with intermediate & degree education. The Academy also offers one year intensive Civil services coaching for graduates and postgraduates</p>
+                      <p>Candidates who qualified in preliminary examination will go to second stage i.e Main examination which contains five papers in conventional type & is of degree standard syllabus. The General English paper is of qualifying one and its marks are not counted for final ranking. All the question papers except General English may be answered either in English or Telugu or Urdu chosen by the candidate. Minimum qualifying marks will be given for reservation candidates as per the rules.</p>
                     </div>
                     <div class="tab-pane fade" id="tab2">
                       <table class="table table-striped">
