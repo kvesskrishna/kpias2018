@@ -118,11 +118,11 @@
                         <tbody>
                           <tr>
                             <th>Duration</th>
-                            <td><p>xx months</p></td>
+                            <td><p>3 years</p></td>
                           </tr>
                           <tr>
                             <th>Eligibility</th>
-                            <td><p>elig</p></td>
+                            <td><p>10+2</p></td>
                           </tr>
                           <tr>
                             <th>Fees</th>
