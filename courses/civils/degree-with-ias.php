@@ -110,8 +110,8 @@
                   <div class="tab-content">
                     <div class="tab-pane fade in active" id="tab1">
                       <h3>Course Description</h3>
-                      <p>One Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, iste, architecto ullam tenetur quia nemo ratione tempora consectetur quos minus voluptates nisi hic alias libero explicabo reiciendis sint ut quo nulla ipsa aliquid neque molestias et qui sunt. Odit, molestiae. One Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, iste, architecto ullam tenetur quia nemo ratione tempora consectetur quos minus voluptates nisi hic alias libero explicabo reiciendis sint ut quo nulla ipsa aliquid neque molestias et qui sunt. Odit, molestiae.</p>
-                      <p>One Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, iste, architecto ullam tenetur quia nemo ratione tempora consectetur quos minus voluptates nisi hic alias libero explicabo reiciendis sint ut quo nulla ipsa aliquid neque molestias et qui sunt. Odit, molestiae.</p>
+                      <p>Normally aspirants start for Civil Services exam preparation after their post graduation at around 22-23 years of age. It takes about 1-2 years to get proper understanding of the subject and examination pattern. By the time they succeed in the Civils examination usually they will be around 26-28 years.<br>
+                      However, if they decide on Civils as a career at an early stage while in Intermediate or Degree, it helps them to succeed in the Civil Services Exam in their first attempt so that they enter the services at a young age of 21-22 years, they will enjoy longer tenure in the topmost positions like Cabinet Secretary, Home Secretary, Chief Secretary, Director General of Police, Chief Commissioner of Income Tax and other such top posts.</p>
                     </div>
                     <div class="tab-pane fade" id="tab2">
                       <table class="table table-striped">
