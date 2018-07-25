@@ -168,8 +168,12 @@
                                     </div>
                                     <div id="collapseOne2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne2">
                                         <div class="panel-body">
-                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
-                                            non cupidatat skateboard dolor brunch.
+                                            123
+                                            <div class="text-center">
+                                                <a href="" class="btn btn-info btn-sm">
+                                                    Read More
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -185,8 +189,12 @@
                                     </div>
                                     <div id="collapseThree2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree2">
                                         <div class="panel-body">
-                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
-                                            non cupidatat skateboard dolor brunch.
+                                            123
+                                            <div class="text-center">
+                                                <a href="" class="btn btn-info btn-sm">
+                                                    Read More
+                                                </a>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
