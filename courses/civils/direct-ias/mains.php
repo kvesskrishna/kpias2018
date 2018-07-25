@@ -116,24 +116,28 @@
                       <table class="table table-striped">
                         <tbody>
                           <tr>
+                            <th>Compulsary Subject</th> 
+  
+  
+ 
+  
+                            <td><p>General English</p></td>
+                          </tr>
+                          <tr>
+                            <th>Subjects</th>
+                            <td><p>General Studies & Mental Ability</p></td>
+                          </tr>
+                          <tr>
+                            <th>Type</th>
+                            <td><p>Objective Type</p></td>
+                          </tr>
+                          <tr>
+                            <th>Marks</th>
+                            <td>150 Marks (Each Paper)</td>
+                          </tr>
+                          <tr>
                             <th>Duration</th>
-                            <td><p>xx months</p></td>
-                          </tr>
-                          <tr>
-                            <th>Eligibility</th>
-                            <td><p>elig</p></td>
-                          </tr>
-                          <tr>
-                            <th>Fees</th>
-                            <td><p>variable</p></td>
-                          </tr>
-                          <tr>
-                            <th>Available Campus</th>
-                            <td>Hyderabad, Rajahmundry, Vizag</td>
-                          </tr>
-                          <tr>
-                            <th>Facilities</th>
-                            <td>Campus, Transport, Hostel etc.</td>
+                            <td>03:00 hrs (Each Paper)</td>
                           </tr>
                         </tbody>
                       </table>
