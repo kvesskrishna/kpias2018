@@ -119,7 +119,13 @@
                                     </div>
                                     <div id="collapseOne3" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne3">
                                         <div class="panel-body">
-                                            123
+                                            The Andhra Pradesh Public Service Commission conducts recruitment examination every year for filling the vacant posts in the various departments.
+                                            <br>
+                                            <ul>
+                  <li>GROUP – I / GROUP – II</li>
+                  
+                  <li>GROUP – III / GROUP – IV</li>
+                  
                                             <div class="text-center">
                                                 <a href="" class="btn btn-info btn-sm">
                                                     Read More
@@ -139,8 +145,12 @@
                                     </div>
                                     <div id="collapseTwo3" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo3">
                                         <div class="panel-body">
-                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
-                                            non cupidatat skateboard dolor brunch.
+                                            The Telangana State Public Service Commission Previously Group – I MainsExams contains only 5 Papers, now it will be 6 papers, 6th paper contains Telangana state information<br>
+                                            <ul>
+                  <li>GROUP – I / GROUP – II</li>
+                  
+                  <li>GROUP – III / GROUP – IV</li>
+
                                             <div class="text-center">
                                                 <a href="" class="btn btn-info btn-sm">
                                                     Read More
@@ -168,7 +178,10 @@
                                     </div>
                                     <div id="collapseOne2" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne2">
                                         <div class="panel-body">
-                                            123
+  <ul>                                        APPSC Group-II Exam is Conducted in 2 Stages<br>
+<li>Main’s Examination (Conventional Type)</li>
+<li>Interview/Oral Test</li></ul>
+                                            </ul>
                                             <div class="text-center">
                                                 <a href="" class="btn btn-info btn-sm">
                                                     Read More
@@ -189,7 +202,14 @@
                                     </div>
                                     <div id="collapseThree2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree2">
                                         <div class="panel-body">
-                                            123
+                                            Mains<br>
+<ul>
+  <li>600 Marks</li>
+<li>4 Papers – 150 Marks each</li>
+<li>Duration – 02:30 Hrs for each paper</li>
+
+<li>Interview
+75 Marks</li></ul>
                                             <div class="text-center">
                                                 <a href="" class="btn btn-info btn-sm">
                                                     Read More
