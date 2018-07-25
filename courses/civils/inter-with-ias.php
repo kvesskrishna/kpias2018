@@ -117,11 +117,11 @@
                         <tbody>
                           <tr>
                             <th>Duration</th>
-                            <td><p>xx months</p></td>
+                            <td><p>5 years Intergrated civil Service Coaching</p></td>
                           </tr>
                           <tr>
                             <th>Eligibility</th>
-                            <td><p>elig</p></td>
+                            <td><p>10th Pass</p></td>
                           </tr>
                           <tr>
                             <th>Fees</th>
