@@ -126,8 +126,8 @@
             </div>
             <div class="col-md-6">
               <h2 class="text-uppercasetext-theme-colored mt-0 mt-sm-30">Our <span class="text-theme-colored2">Misson</span></h2>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quas voluptatem maiores eaque similique non distinctio voluptates perspiciatis omnis, repellendus ipsa aperiam, laudantium voluptatum nulla?.</p>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos ipsum voluptate numquam, iure odio commodi rerum quasi distinctio qui eligendi similique eius consequatur modi! Voluptas quam consequatur, debitis recusandae facilis, autem in! Enim laudantium rem, placeat odit esse numquam facere ut. Quae, minus dolorum corrupti!</p>
+              <p>Give valued services in the field of education and participate in different spheres of education at different stages..</p>
+              <p>To create an excellent competitive environment in the candidate who participate in the competitive exams by virtue of imparting qualitative education, with a consolidated strategy to produce proficient professionals.</p>
             </div>
           </div>
         </div>
