@@ -104,8 +104,34 @@
             </section>
             <section>
             <div class="container">
-                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute,
-                                            non cupidatat skateboard dolor brunch.
+              <h3>Repeaters Intensive Batch</h3>
+                                            As a part of Crackers course, we differentiate from others with a uniquely designed program – Repeater’s Intensive Batch (RIB):<br><br>
+
+It’s a pre-scheduled time table based program for the revision and current affairs orientated classes with examination point of view.It goes from basics to advance study.
+<br><br>
+It is a focused course emphasizing the writing practice skills. It covers the activities like – <br><br>
+<ol>
+<li style="list-style-type: upper-roman;">Every Monday – Analysis of previous week current affairs; analysis of an article from Yojana, Kurukshetra, Front line & Economic and Political weekly</li>
+<li style="list-style-type: upper-roman;">Every Wednesday – Mains General Studies test covering all the four papers with an emphasis on contemporary aspects.</li>
+<li style="list-style-type: upper-roman;">Every Thursday – Mains Optional paper tests covering once chapter per week gradually culminating into comprehensive grand tests.</li>
+<li style="list-style-type: upper-roman;">Every Sunday – preliminary tests covering one chapter per week taking the candidate from basics to advance and ultimately to the grand mock tests.</li></ol>
+
+<h4>And covers the following –</h4>
+
+<ol>
+
+<li style="list-style-type: circle">Mains – 30 Tests</li>
+<li style="list-style-type: circle">Prelims – 30 Tests</li>
+<li style="list-style-type: circle">Mains Practice : 500 Questions</li>
+<li style="list-style-type: circle">Prelims Practice : 3000 Questions</li>
+</ol>
+<h4>The strategy for RIP has 2 Sessions</h4>
+<ol>
+  <li style="list-style-type: upper-roman;">March to July (Before Prelims Exam)</li>
+  <li style="list-style-type: upper-roman;">September to November (Post – Prelims Exam)</li>
+</ol><br>
+                                           
+
                                             <ul class="list-icon theme-colored rounded">
                                                 <li>
                                                     <i class="fa fa-pencil-square-o"></i>
