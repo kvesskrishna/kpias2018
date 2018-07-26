@@ -14,24 +14,24 @@
                   <img src="../images/bg/bg1.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
                     class="rev-slidebg" data-no-retina>
                   <!-- LAYERS -->
-                  <!-- LAYER NR. 1 -->
+                  <!-- LAYER NR. 1 --><div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0" id="slide-1-layer-2" data-x="['left','left','left','left']"
+                    data-hoffset="['50','50','50','30']" data-y="['top','top','top','top']" data-voffset="['250','160','140','150']"
+                    data-fontsize="['52','46','40','28']" data-lineheight="['68','60','54','42']" data-fontweight="['800','800','800','800']"
+                    data-width="['700','650','600','420']" data-height="none" data-whitespace="normal" data-transform_idle="o:1;"
+                    data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
+                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
+                    data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">With KPIAS
+                  </div>
                   <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" id="slide-1-layer-1" data-x="['left','left','left','left']"
                     data-hoffset="['50','50','50','30']" data-y="['top','top','top','top']" data-voffset="['215','130','110','120']"
                     data-fontsize="['20','18','16','13']" data-lineheight="['30','30','28','25']" data-fontweight="['700','700','700','700']"
                     data-width="['700','650','600','420']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
                     data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
                     data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
-                    data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">Making Best Future
+                    data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">Making Your Civil Dream Come True 
                   </div>
                   <!-- LAYER NR. 2 -->
-                  <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0" id="slide-1-layer-2" data-x="['left','left','left','left']"
-                    data-hoffset="['50','50','50','30']" data-y="['top','top','top','top']" data-voffset="['250','160','140','150']"
-                    data-fontsize="['52','46','40','28']" data-lineheight="['68','60','54','42']" data-fontweight="['800','800','800','800']"
-                    data-width="['700','650','600','420']" data-height="none" data-whitespace="normal" data-transform_idle="o:1;"
-                    data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
-                    data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
-                    data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">Popular Education
-                  </div>
+                  
                   <!-- LAYER NR. 3 -->
                   <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" id="slide-1-layer-3" data-x="['left','left','left','left']"
                     data-hoffset="['50','50','50','30']" data-y="['top','top','top','top']" data-voffset="['325','220','195','195']"
@@ -114,7 +114,7 @@
                     data-width="['700','650','600','420']" data-height="none" data-whitespace="nowrap" data-transform_idle="o:1;"
                     data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
                     data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
-                    data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">Join Today for Start
+                    data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 7; white-space: nowrap;">Get Strat Your Preparation
                   </div>
                   <!-- LAYER NR. 2 -->
                   <div class="tp-caption tp-resizeme text-white text-uppercase font-montserrat rs-parallaxlevel-0" id="slide-3-layer-2" data-x="['left','left','left','left']"
@@ -123,7 +123,7 @@
                     data-width="['700','650','600','420']" data-height="none" data-whitespace="normal" data-transform_idle="o:1;"
                     data-transform_in="y:[-100%];z:0;rX:0deg;rY:0;rZ:0;sX:1;sY:1;skX:0;skY:0;s:1500;e:Power3.easeInOut;" data-transform_out="auto:auto;s:1000;e:Power3.easeInOut;"
                     data-mask_in="x:0px;y:0px;s:inherit;e:inherit;" data-mask_out="x:0;y:0;s:inherit;e:inherit;" data-start="1000"
-                    data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">Best Courses
+                    data-splitin="none" data-splitout="none" data-responsive_offset="on" style="z-index: 6; min-width: 600px; max-width: 600px; white-space: normal;">We are Creative
                   </div>
                   <!-- LAYER NR. 3 -->
                   <div class="tp-caption tp-resizeme text-white rs-parallaxlevel-0" id="slide-3-layer-3" data-x="['left','left','left','left']"
