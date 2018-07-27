@@ -128,7 +128,9 @@
               </div>
               <div id="collapse2" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading2">
                 <div class="panel-body">
-                  IAS is a dream for many, a passion for some and a way of change for a few. It makes you a celebrity overnight and for a lifetime...
+                  
+                  IAS is a dream for many, a passion for some and a way of change for a few. It makes you a celebrity overnight and for a lifetime... <br><br>
+                 <ul> <li style="list-style-type: circle">The crackers course is meant for those who have completed their graduation and are about to write IAS exam. It is a one-year advanced course emphasizing to develop the super refinery motor skills like answer writing skills.</li></ul>
                 </div>
               </div>
             </div>
