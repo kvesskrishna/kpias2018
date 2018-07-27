@@ -100,7 +100,93 @@
                     </div>
                 </div>
             </section>
-
+            <section id="courses" class="bg-silver-light">
+      <div class="container">
+        <div class="section-content">
+          <div class="row">
+          <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+              <div class="course-single-item bg-white border-1px clearfix mb-md-40">
+                <div class="course-thumb">
+                  <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                  
+                </div>
+                <div class="course-details clearfix p-20 pt-15">
+                  <div class="course-top-part">
+                    <a href="page-course-details.html"><h4 class="mt-5 mb-5">How to crack IAS</h4></a>
+                    <h5 class="text-gray font-12 mt-0">26th JUNE</h5>
+                  </div>
+                  <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit, numquam a odio</p>
+                  <div class="author-thumb">
+                    <img src="../images/logo.png" alt="" class="img-circle">
+                  </div>
+                </div>
+                <div class="course-meta">
+                  <ul class="list-inline">
+                    <li><i class="fa fa-map-marker"></i>Visakhapatnam</li>
+                  </ul>
+                  <div class="course-tag">
+                    <h5>View Gallery</h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+              <div class="course-single-item bg-white border-1px clearfix mb-md-40">
+                <div class="course-thumb">
+                  <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                  
+                </div>
+                <div class="course-details clearfix p-20 pt-15">
+                  <div class="course-top-part">
+                    <a href="page-course-details.html"><h4 class="mt-5 mb-5">How to crack IAS</h4></a>
+                    <h5 class="text-gray font-12 mt-0">26th JUNE</h5>
+                  </div>
+                  <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit, numquam a odio</p>
+                  <div class="author-thumb">
+                    <img src="../images/logo.png" alt="" class="img-circle">
+                  </div>
+                </div>
+                <div class="course-meta">
+                  <ul class="list-inline">
+                    <li><i class="fa fa-map-marker"></i>Visakhapatnam</li>
+                  </ul>
+                  <div class="course-tag">
+                    <h5>View Gallery</h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4">
+              <div class="course-single-item bg-white border-1px clearfix mb-md-40">
+                <div class="course-thumb">
+                  <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                  
+                </div>
+                <div class="course-details clearfix p-20 pt-15">
+                  <div class="course-top-part">
+                    <a href="page-course-details.html"><h4 class="mt-5 mb-5">How to crack IAS</h4></a>
+                    <h5 class="text-gray font-12 mt-0">26th JUNE</h5>
+                  </div>
+                  <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit, numquam a odio</p>
+                  <div class="author-thumb">
+                    <img src="../images/logo.png" alt="" class="img-circle">
+                  </div>
+                </div>
+                <div class="course-meta">
+                  <ul class="list-inline">
+                    <li><i class="fa fa-map-marker"></i>Visakhapatnam</li>
+                  </ul>
+                  <div class="course-tag">
+                    <h5>View Gallery</h5>
+                  </div>
+                </div>
+              </div>
+            </div>
+           
+          </div>
+        </div>
+      </div>
+    </section>
           
         </div>
         <!-- end main-content -->

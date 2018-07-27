@@ -100,7 +100,7 @@
               <a href="/gallery">Gallery</a>
               <ul class="dropdown">
                 <li>
-                  <a href="/gallery/images">Image Gallery</a>
+                  <a href="/gallery/image-gallery">Image Gallery</a>
                 </li>
                 <li>
                   <a href="/gallery/videos">Video Gallery</a>
