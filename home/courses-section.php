@@ -111,7 +111,7 @@
                   <div class="item">
                     <div class="course-single-item bg-white border-1px clearfix">
                       <div class="course-thumb">
-                        <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                        <img class="img-fullwidth" alt="" src="../images/course/regular.gif">
                         
                       </div>
                       <div class="course-details clearfix p-20 pt-15">
@@ -140,7 +140,7 @@
                   <div class="item">
                     <div class="course-single-item bg-white border-1px clearfix">
                       <div class="course-thumb">
-                        <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                        <img class="img-fullwidth" alt="" src="../images/course/prelims.jpg">
                         
                       </div>
                       <div class="course-details clearfix p-20 pt-15">
@@ -150,8 +150,7 @@
                           </a>
                           <h5 class="text-gray font-12 mt-0">Repeaters Intensive Batch</h5>
                         </div>
-                        <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit,
-                          numquam a odio</p>
+                        <p class="course-description mt-15 mb-0">It’s a pre-scheduled time table based program for the revision and current affairs orientated classes with examination point of view.</p>
                         <div class="author-thumb">
                           <img src="../images/logo.png" alt="" class="img-circle">
                         </div>
