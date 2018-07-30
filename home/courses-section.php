@@ -50,7 +50,7 @@
                   <div class="item">
                     <div class="course-single-item bg-white border-1px clearfix">
                       <div class="course-thumb">
-                        <img class="img-fullwidth" alt="" src="../images/course/sm2.jpg">
+                        <img class="img-fullwidth" alt="" src="../images/course/Degree.jpg">
                         
                       </div>
                       <div class="course-details clearfix p-20 pt-15">
@@ -80,7 +80,7 @@
                   <div class="item">
                     <div class="course-single-item bg-white border-1px clearfix">
                       <div class="course-thumb">
-                        <img class="img-fullwidth" alt="" src="../images/course/sm3.jpg">
+                        <img class="img-fullwidth" alt="" src="../images/course/Pcm-R.jpg">
                         
                       </div>
                       <div class="course-details clearfix p-20 pt-15">
@@ -230,7 +230,7 @@
                   <div class="item">
                     <div class="course-single-item bg-white border-1px clearfix">
                       <div class="course-thumb">
-                        <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                        <img class="img-fullwidth" alt="" src="../images/course/test.jpg">
                         
                       </div>
                       <div class="course-details clearfix p-20 pt-15">
