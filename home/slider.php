@@ -58,7 +58,7 @@
                   data-masterspeed="default" data-thumb="../images/bg/bg2.jpg" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                   data-fsslotamount="7" data-saveperformance="off" data-title="Slide Two">
                   <!-- MAIN IMAGE -->
-                  <img src="../images/bg/bg2.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
+                  <img src="../images/bg/Slider-2.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
                     class="rev-slidebg" data-no-retina>
                   <!-- LAYERS -->
                   <!-- LAYER NR. 1 -->
@@ -104,7 +104,7 @@
                   data-masterspeed="default" data-thumb="../images/bg/bg3.jpg" data-rotate="0" data-fstransition="fade" data-fsmasterspeed="1500"
                   data-fsslotamount="7" data-saveperformance="off" data-title="Slide Three">
                   <!-- MAIN IMAGE -->
-                  <img src="../images/bg/SS1.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
+                  <img src="../images/bg/SS1-1.jpg" alt="" data-bgposition="center 20%" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="10"
                     class="rev-slidebg" data-no-retina>
                   <!-- LAYERS -->
                   <!-- LAYER NR. 1 -->
