@@ -179,8 +179,7 @@
                           </a>
                           <h5 class="text-gray font-12 mt-0">Repeaters Intensive Batch</h5>
                         </div>
-                        <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit,
-                          numquam a odio</p>
+                        <p class="course-description mt-15 mb-0">Candidates who qualified in preliminary examination will go to second stage i.e Main examination which contains five papers </p>
                         <div class="author-thumb">
                           <img src="../images/logo.png" alt="" class="img-circle">
                         </div>
@@ -209,8 +208,7 @@
                           </a>
                           <h5 class="text-gray font-12 mt-0">Repeaters Intensive Batch</h5>
                         </div>
-                        <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit,
-                          numquam a odio</p>
+                        <p class="course-description mt-15 mb-0">To achieve this objective, for the first time in the country Krishna Pradeep’s 21st Century IAS Academy was established to groom young minds</p>
                         <div class="author-thumb">
                           <img src="../images/logo.png" alt="" class="img-circle">
                         </div>
@@ -239,8 +237,7 @@
                           </a>
                           <h5 class="text-gray font-12 mt-0">Repeaters Intensive Batch</h5>
                         </div>
-                        <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit,
-                          numquam a odio</p>
+                        <p class="course-description mt-15 mb-0">To achieve this objective, for the first time in the country Krishna Pradeep’s 21st Century IAS Academy was established to groom young minds</p>
                         <div class="author-thumb">
                           <img src="../images/logo.png" alt="" class="img-circle">
                         </div>
