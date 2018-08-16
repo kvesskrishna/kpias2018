@@ -169,7 +169,7 @@
                   <div class="item">
                     <div class="course-single-item bg-white border-1px clearfix">
                       <div class="course-thumb">
-                        <img class="img-fullwidth" alt="" src="../images/course/mains1.jpg">
+                        <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
                         
                       </div>
                       <div class="course-details clearfix p-20 pt-15">
@@ -179,8 +179,12 @@
                           </a>
                           <h5 class="text-gray font-12 mt-0">Civils</h5>
                         </div>
+<<<<<<< HEAD
                         <p class="course-description mt-15 mb-0">The Main written examination comprises a total of nine (9) papers of two types:<br>
 2 papers of non-ranking & 7 papers of ranking</p>
+=======
+                        <p class="course-description mt-15 mb-0">Candidates who qualified in preliminary examination will go to second stage i.e Main examination which contains five papers </p>
+>>>>>>> 6db5ead1e5dd8e78b7ec06c99b14177906e32c3d
                         <div class="author-thumb">
                           <img src="../images/logo.png" alt="" class="img-circle">
                         </div>
@@ -196,7 +200,35 @@
                       </div>
                     </div>
                   </div>
-
+                  <div class="item">
+                    <div class="course-single-item bg-white border-1px clearfix">
+                      <div class="course-thumb">
+                        <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                        
+                      </div>
+                      <div class="course-details clearfix p-20 pt-15">
+                        <div class="course-top-part">
+                          <a href="page-course-details.html">
+                            <h4 class="mt-5 mb-5">PCM</h4>
+                          </a>
+                          <h5 class="text-gray font-12 mt-0">Repeaters Intensive Batch</h5>
+                        </div>
+                        <p class="course-description mt-15 mb-0">To achieve this objective, for the first time in the country Krishna Pradeep’s 21st Century IAS Academy was established to groom young minds</p>
+                        <div class="author-thumb">
+                          <img src="../images/logo.png" alt="" class="img-circle">
+                        </div>
+                      </div>
+                      <div class="course-meta">
+                        <ul class="list-inline">
+                          <li>
+                            <i class="ficon-clock font-18"></i> 1 Year</li>
+                        </ul>
+                        <div class="course-tag">
+                          <a href="#" class="btn btn-warning btn-sm">More</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
                   <div class="item">
                     <div class="course-single-item bg-white border-1px clearfix">
                       <div class="course-thumb">
@@ -208,10 +240,9 @@
                           <a href="page-course-details.html">
                             <h4 class="mt-5 mb-5">Test Series</h4>
                           </a>
-                          <h5 class="text-gray font-12 mt-0">Test Series includes two exams</h5>
+                          <h5 class="text-gray font-12 mt-0">Repeaters Intensive Batch</h5>
                         </div>
-                        <p class="course-description mt-15 mb-0">Focuses on<br>
-                        Enrichment Programme / Previous Paper analysis of every chapter / Short Answer Questions</p>
+                        <p class="course-description mt-15 mb-0">To achieve this objective, for the first time in the country Krishna Pradeep’s 21st Century IAS Academy was established to groom young minds</p>
                         <div class="author-thumb">
                           <img src="../images/logo.png" alt="" class="img-circle">
                         </div>
@@ -236,7 +267,7 @@
                       <div class="course-details clearfix p-20 pt-15">
                         <div class="course-top-part">
                           <a href="page-course-details.html">
-                            <h4 class="mt-5 mb-5">Group's</h4>
+                            <h4 class="mt-5 mb-5">Group 1</h4>
                           </a>
                           <h5 class="text-gray font-12 mt-0">Andhra Pradesh</h5>
                         </div>
@@ -266,7 +297,66 @@ Preliminary Examination (Objective paper) / Main’s Examination (Conventional T
                       <div class="course-details clearfix p-20 pt-15">
                         <div class="course-top-part">
                           <a href="page-course-details.html">
-                            <h4 class="mt-5 mb-5">Group's</h4>
+                            <h4 class="mt-5 mb-5">Group 2</h4>
+                          </a>
+                          <h5 class="text-gray font-12 mt-0">Andhra Pradesh</h5>
+                        </div>
+                        <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit,
+                          numquam a odio</p>
+                        <div class="author-thumb">
+                          <img src="../images/logo.png" alt="" class="img-circle">
+                        </div>
+                      </div>
+                      <div class="course-meta">
+                        <ul class="list-inline">
+                          <li>
+                            <i class="ficon-clock font-18"></i> 3 Months</li>
+                        </ul>
+                        <div class="course-tag">
+                          <a href="#" class="btn btn-warning btn-sm">More</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="course-single-item bg-white border-1px clearfix">
+                      <div class="course-thumb">
+                        <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                        
+                      </div>
+                      <div class="course-details clearfix p-20 pt-15">
+                        <div class="course-top-part">
+                          <a href="page-course-details.html">
+                            <h4 class="mt-5 mb-5">Group 1</h4>
+                          </a>
+                          <h5 class="text-gray font-12 mt-0">Telangana</h5>
+                        </div>
+                        <p class="course-description mt-15 mb-0">The Telangana State PSC Group – I MainsExams Previously has only 5 Papers, now it will be 6 papers, 6th paper contains Telangana state information</p>
+                        <div class="author-thumb">
+                          <img src="../images/logo.png" alt="" class="img-circle">
+                        </div>
+                      </div>
+                      <div class="course-meta">
+                        <ul class="list-inline">
+                          <li>
+                            <i class="ficon-clock font-18"></i> 3 Months</li>
+                        </ul>
+                        <div class="course-tag">
+                          <a href="#" class="btn btn-warning btn-sm">More</a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="item">
+                    <div class="course-single-item bg-white border-1px clearfix">
+                      <div class="course-thumb">
+                        <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                        
+                      </div>
+                      <div class="course-details clearfix p-20 pt-15">
+                        <div class="course-top-part">
+                          <a href="page-course-details.html">
+                            <h4 class="mt-5 mb-5">Group 2</h4>
                           </a>
                           <h5 class="text-gray font-12 mt-0">Telangana</h5>
                         </div>
@@ -286,8 +376,6 @@ Preliminary Examination (Objective paper) / Main’s Examination (Conventional T
                       </div>
                     </div>
                   </div>
-                  
-                  
 
 
 
