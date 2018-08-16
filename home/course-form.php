@@ -3,7 +3,7 @@
           <div class="section-content">
             <div class="row">
               <div class="col-md-6">
-                <img class="img-fullwidth hidden-md" src="../images/about/2.png" alt="">
+                <img class="img-fullwidth hidden-md" src="../images/course/Formpic.jpg" alt="">
                 <img class="img-fullwidth hidden-xs hidden-sm hidden-lg" src="../images/about/1.png" alt="">
               </div>
               <div class="col-md-6">
