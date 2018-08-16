@@ -148,7 +148,7 @@
                           <a href="page-course-details.html">
                             <h4 class="mt-5 mb-5">Prelims</h4>
                           </a>
-                          <h5 class="text-gray font-12 mt-0">Repeaters Intensive Batch</h5>
+                          <h5 class="text-gray font-12 mt-0">Civils</h5>
                         </div>
                         <p class="course-description mt-15 mb-0">It’s a pre-scheduled time table based program for the revision and current affairs orientated classes with examination point of view.</p>
                         <div class="author-thumb">
@@ -177,10 +177,10 @@
                           <a href="page-course-details.html">
                             <h4 class="mt-5 mb-5">Mains</h4>
                           </a>
-                          <h5 class="text-gray font-12 mt-0">Repeaters Intensive Batch</h5>
+                          <h5 class="text-gray font-12 mt-0">Civils</h5>
                         </div>
-                        <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit,
-                          numquam a odio</p>
+                        <p class="course-description mt-15 mb-0">The Main written examination comprises a total of nine (9) papers of two types:<br>
+2 papers of non-ranking & 7 papers of ranking</p>
                         <div class="author-thumb">
                           <img src="../images/logo.png" alt="" class="img-circle">
                         </div>
@@ -188,7 +188,7 @@
                       <div class="course-meta">
                         <ul class="list-inline">
                           <li>
-                            <i class="ficon-clock font-18"></i> 3 Months</li>
+                            <i class="ficon-clock font-18"></i> 1 year Months</li>
                         </ul>
                         <div class="course-tag">
                           <a href="#" class="btn btn-warning btn-sm">More</a>
@@ -230,7 +230,7 @@
                   <div class="item">
                     <div class="course-single-item bg-white border-1px clearfix">
                       <div class="course-thumb">
-                        <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                        <img class="img-fullwidth" alt="" src="../images/course/AP-grp.jpg">
                         
                       </div>
                       <div class="course-details clearfix p-20 pt-15">
@@ -240,8 +240,8 @@
                           </a>
                           <h5 class="text-gray font-12 mt-0">Andhra Pradesh</h5>
                         </div>
-                        <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit,
-                          numquam a odio</p>
+                        <p class="course-description mt-15 mb-0">APPSC Group-I Exam is Conducted in 3 Stages <br>
+Preliminary Examination (Objective paper) / Main’s Examination (Conventional Type)...</p>
                         <div class="author-thumb">
                           <img src="../images/logo.png" alt="" class="img-circle">
                         </div>
@@ -260,7 +260,7 @@
                   <div class="item">
                     <div class="course-single-item bg-white border-1px clearfix">
                       <div class="course-thumb">
-                        <img class="img-fullwidth" alt="" src="../images/course/sm4.jpg">
+                        <img class="img-fullwidth" alt="" src="../images/course/TS-grp.jpg">
                         
                       </div>
                       <div class="course-details clearfix p-20 pt-15">
@@ -270,8 +270,7 @@
                           </a>
                           <h5 class="text-gray font-12 mt-0">Telangana</h5>
                         </div>
-                        <p class="course-description mt-15 mb-0">Lorem ipsum dolor sit amet, consec sectet urad cing elit. Nobis commodi esse aliquam eligend reprehenderit,
-                          numquam a odio</p>
+                        <p class="course-description mt-15 mb-0">The Telangana State Public Service Commission Group I MainsExams contains 5 Papers, now it will be 6 papers, 6th paper contains TS information</p>
                         <div class="author-thumb">
                           <img src="../images/logo.png" alt="" class="img-circle">
                         </div>
